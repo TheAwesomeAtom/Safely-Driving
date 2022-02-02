@@ -246,7 +246,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Pre-Alpha 1.1
+  m_text: Pre-Alpha 1.2
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -255,8 +255,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4290787167
-  m_fontColor: {r: 0.37254903, g: 0.21568629, b: 0.75294125, a: 1}
+    rgba: 4290777412
+  m_fontColor: {r: 0.26666668, g: 0.06666667, b: 0.75294125, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -591,7 +591,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 893070243}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &893070243
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -664,7 +676,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 11.562981, y: 1247}
+  m_AnchoredPosition: {x: 11.562981, y: 1066}
   m_SizeDelta: {x: 147.126, y: 102.874}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1336380554
@@ -699,8 +711,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4290787167
-  m_fontColor: {r: 0.37254903, g: 0.21568629, b: 0.75294125, a: 1}
+    rgba: 4290777412
+  m_fontColor: {r: 0.26666668, g: 0.06666667, b: 0.75294125, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -717,12 +729,12 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 72
+  m_fontSize: 89.05
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
-  m_fontSizeMax: 72
+  m_fontSizeMax: 999
   m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
@@ -779,7 +791,7 @@ GameObject:
   - component: {fileID: 1506485642}
   - component: {fileID: 1506485641}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: Start Button Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -833,8 +845,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4290721887
-  m_fontColor: {r: 0.37254903, g: 0.21960786, b: 0.7490196, a: 1}
+    rgba: 4290777412
+  m_fontColor: {r: 0.2656224, g: 0.066927694, b: 0.754717, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -935,7 +947,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 11.563, y: 1355.437}
+  m_AnchoredPosition: {x: 11.563, y: 1280}
   m_SizeDelta: {x: 147.126, y: 102.874}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1616445875
@@ -970,8 +982,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4290787167
-  m_fontColor: {r: 0.37222758, g: 0.2164471, b: 0.754717, a: 1}
+    rgba: 4290777412
+  m_fontColor: {r: 0.26666668, g: 0.06666667, b: 0.75294125, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -988,12 +1000,12 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 72
+  m_fontSize: 137.85
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
-  m_fontSizeMax: 72
+  m_fontSizeMax: 999
   m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
