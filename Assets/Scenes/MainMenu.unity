@@ -658,7 +658,7 @@ GameObject:
   - component: {fileID: 816853234}
   - component: {fileID: 816853233}
   m_Layer: 5
-  m_Name: Title Holder
+  m_Name: Title Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2088,7 +2088,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Alpha 3
+  m_text: 'Alpha 4
 
 '
   m_isRightToLeft: 0
