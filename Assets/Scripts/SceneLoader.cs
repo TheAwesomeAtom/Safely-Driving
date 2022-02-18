@@ -16,7 +16,7 @@ public class SceneLoader : MonoBehaviour
     }
     public void Questions()
     {
-        SceneManager.LoadScene("Questions");
+        SceneManager.LoadScene("QSetSelect");
         Debug.Log("Click!");
     }
 }

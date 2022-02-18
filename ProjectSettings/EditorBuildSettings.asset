@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AboutUs.unity
     guid: c0c69311f479ea147ae0c3117eef849a
+  - enabled: 1
+    path: Assets/Scenes/QSetSelect.unity
+    guid: 2365fe00ffc30a24682f947f79d55bcb
   m_configObjects: {}
