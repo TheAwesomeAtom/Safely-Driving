@@ -19,4 +19,10 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene("QSetSelect");
         Debug.Log("Click!");
     }
+
+    public void RoadConditions()
+    {
+        SceneManager.LoadScene("RoadConditions");
+        Debug.Log("Click!");
+    }
 }
