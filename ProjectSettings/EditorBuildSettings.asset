@@ -12,14 +12,8 @@ EditorBuildSettings:
     path: Assets/Scenes/AboutUs.unity
     guid: c0c69311f479ea147ae0c3117eef849a
   - enabled: 1
-    path: Assets/Scenes/RoadConditions.unity
-    guid: 2365fe00ffc30a24682f947f79d55bcb
-  - enabled: 1
     path: Assets/Scenes/QSetSelect.unity
     guid: 96780b3b9d1a4484ca19536b88222ccb
-  - enabled: 1
-    path: Assets/Scenes/RCQ1.unity
-    guid: 46cdeed535068534a9581c35c804ed54
   - enabled: 1
     path: Assets/Scenes/Signs.unity
     guid: a0de61a9aa3d194438b7c71e9131fae2
@@ -29,4 +23,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/RoadEtiquette.unity
     guid: 25ddbfaf465973342914aa03946410f0
+  - enabled: 1
+    path: Assets/Scenes/RoadConditions.unity
+    guid: 2365fe00ffc30a24682f947f79d55bcb
+  - enabled: 1
+    path: Assets/Scenes/RCQ1.unity
+    guid: 46cdeed535068534a9581c35c804ed54
+  - enabled: 1
+    path: Assets/Scenes/RCQ2.unity
+    guid: f52f9b3239081314e97a09686ba922c3
   m_configObjects: {}

@@ -49,4 +49,16 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene("RoadEtiquette");
         Debug.Log("Click!");
     }
+
+    public void NextQ()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        Debug.Log("Correct!");
+    }
+    
+    public void PreviousQ()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+        Debug.Log("Click!");
+    }
 }
