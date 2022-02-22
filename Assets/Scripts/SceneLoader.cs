@@ -25,4 +25,10 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene("RoadConditions");
         Debug.Log("Click!");
     }
+
+    public void RCQ1()
+    {
+        SceneManager.LoadScene("RCQ1");
+        Debug.Log("Click!");
+    }
 }
