@@ -20,4 +20,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/RCQ1.unity
     guid: 46cdeed535068534a9581c35c804ed54
+  - enabled: 1
+    path: Assets/Scenes/Signs.unity
+    guid: a0de61a9aa3d194438b7c71e9131fae2
+  - enabled: 1
+    path: Assets/Scenes/BCC.unity
+    guid: c90fcec733bd6e84bb935fdf4114df25
+  - enabled: 1
+    path: Assets/Scenes/RoadEtiquette.unity
+    guid: 25ddbfaf465973342914aa03946410f0
   m_configObjects: {}

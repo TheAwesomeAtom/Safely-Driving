@@ -31,4 +31,22 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene("RCQ1");
         Debug.Log("Click!");
     }
+
+    public void Signs()
+    {
+        SceneManager.LoadScene("Signs");
+        Debug.Log("Click!");
+    }
+    
+    public void BCC()
+    {
+        SceneManager.LoadScene("BCC");
+        Debug.Log("Click!");
+    }
+
+    public void RoadEtiquette()
+    {
+        SceneManager.LoadScene("RoadEtiquette");
+        Debug.Log("Click!");
+    }
 }
