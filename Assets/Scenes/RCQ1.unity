@@ -2009,7 +2009,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1656879586}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
-        m_MethodName: 
+        m_MethodName: NextQ
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2021,7 +2021,7 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 1058536185}
         m_TargetAssemblyTypeName: ChangeButtonColor, Assembly-CSharp
-        m_MethodName: Incorrect
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
