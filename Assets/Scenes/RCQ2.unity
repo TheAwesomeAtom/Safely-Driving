@@ -502,6 +502,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1058536177}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &373535838
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -773,6 +785,18 @@ MonoBehaviour:
       - m_Target: {fileID: 696105376}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
         m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1058536182}
+        m_TargetAssemblyTypeName: ChangeButtonColor, Assembly-CSharp
+        m_MethodName: Incorrect
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1351,7 +1375,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70f45ece8ab101e42b0c5b4db7bb3da1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wantedColor: {r: 1, g: 0, b: 0, a: 0}
+  wantedColor: {r: 1, g: 0, b: 0, a: 1}
   button: {fileID: 696105378}
 --- !u!114 &1058536183
 MonoBehaviour:
@@ -1365,7 +1389,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70f45ece8ab101e42b0c5b4db7bb3da1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wantedColor: {r: 1, g: 0, b: 0, a: 0}
+  wantedColor: {r: 1, g: 0, b: 0, a: 1}
   button: {fileID: 373535838}
 --- !u!114 &1058536184
 MonoBehaviour:
@@ -1379,7 +1403,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70f45ece8ab101e42b0c5b4db7bb3da1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wantedColor: {r: 1, g: 0, b: 0, a: 0}
+  wantedColor: {r: 1, g: 0, b: 0, a: 1}
   button: {fileID: 1889740598}
 --- !u!114 &1058536185
 MonoBehaviour:
@@ -1393,7 +1417,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70f45ece8ab101e42b0c5b4db7bb3da1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wantedColor: {r: 1, g: 0, b: 0, a: 0}
+  wantedColor: {r: 1, g: 0, b: 0, a: 1}
   button: {fileID: 1656879588}
 --- !u!1 &1098747215
 GameObject:
@@ -1903,7 +1927,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1656879586}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
-        m_MethodName: NextQ
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
