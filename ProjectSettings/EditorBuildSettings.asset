@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/AboutUs.unity
     guid: c0c69311f479ea147ae0c3117eef849a
   - enabled: 1
+    path: Assets/Scenes/VideoSelect.unity
+    guid: c04a4a3ef9cca044ba05f0c860334d5a
+  - enabled: 1
     path: Assets/Scenes/QSetSelect.unity
     guid: 96780b3b9d1a4484ca19536b88222ccb
   - enabled: 1

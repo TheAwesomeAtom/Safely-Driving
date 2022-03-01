@@ -61,4 +61,16 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
         Debug.Log("Click!");
     }
+    
+    public void VideoSelect()
+    {
+        SceneManager.LoadScene("VideoSelect");
+        Debug.Log("Click!");
+    }
+
+    public void FSSetSelect()
+    {
+        SceneManager.LoadScene("FSSetSelect");
+        Debug.Log("Click!");
+    }
 }
