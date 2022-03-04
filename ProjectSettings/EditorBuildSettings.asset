@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/VideoSelect.unity
     guid: c04a4a3ef9cca044ba05f0c860334d5a
   - enabled: 1
+    path: Assets/Scenes/PtD.unity
+    guid: 34a4ffcd7be263e4295378635d130611
+  - enabled: 1
     path: Assets/Scenes/QSetSelect.unity
     guid: 96780b3b9d1a4484ca19536b88222ccb
   - enabled: 1
