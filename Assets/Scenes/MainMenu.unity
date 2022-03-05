@@ -673,7 +673,7 @@ RectTransform:
   m_GameObject: {fileID: 816853230}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1500, y: 1500, z: 1}
+  m_LocalScale: {x: 1500, y: 2000, z: 1}
   m_Children:
   - {fileID: 1616445874}
   - {fileID: 1336380553}
@@ -2071,7 +2071,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Beta 2.0.1
+  m_text: 'Beta 2.0.2
 
 '
   m_isRightToLeft: 0
