@@ -355,7 +355,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 231588464}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
-        m_MethodName: 
+        m_MethodName: PtD
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
