@@ -25,4 +25,58 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene("RoadConditions");
         Debug.Log("Click!");
     }
+
+    public void RCQ1()
+    {
+        SceneManager.LoadScene("RCQ1");
+        Debug.Log("Click!");
+    }
+
+    public void Signs()
+    {
+        SceneManager.LoadScene("Signs");
+        Debug.Log("Click!");
+    }
+    
+    public void BCC()
+    {
+        SceneManager.LoadScene("BCC");
+        Debug.Log("Click!");
+    }
+
+    public void RoadEtiquette()
+    {
+        SceneManager.LoadScene("RoadEtiquette");
+        Debug.Log("Click!");
+    }
+
+    public void NextQ()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        Debug.Log("Correct!");
+    }
+    
+    public void PreviousQ()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+        Debug.Log("Click!");
+    }
+    
+    public void VideoSelect()
+    {
+        SceneManager.LoadScene("VideoSelect");
+        Debug.Log("Click!");
+    }
+
+    public void FSSetSelect()
+    {
+        SceneManager.LoadScene("FSSetSelect");
+        Debug.Log("Click!");
+    }
+
+    public void PtD()
+    {
+        SceneManager.LoadScene("PtD");
+        Debug.Log("Click");
+    }
 }
