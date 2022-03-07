@@ -73,4 +73,10 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene("FSSetSelect");
         Debug.Log("Click!");
     }
+
+    public void PtD()
+    {
+        SceneManager.LoadScene("PtD");
+        Debug.Log("Click");
+    }
 }
